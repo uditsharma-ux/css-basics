@@ -1,57 +1,17 @@
-h1 {
-    color: blue;
-}
-p{
-    color: red;
-}
-h1{
-    color: blue;
-    font-size: 40px;
-}
-p{
-    color: grey;
-    font-size: 18px;
-}
-button{
-    background-color: green;
-    color: black;
-    font-size: 20px;
-    padding: 10px;
-}
-.important{
-    color:red;
-}
-h1,
-h2,
-h3{
-    color: blue;
-}
-div p {
-    color: red;
-}
-.card {
-   background-color: lightgrey;
-}
-<h2> {
-    color: darkblue;
-}
-.price {
-    color: green;
-  
-}\
-.button {
-    background-color: blue;
-    color: white;
-h1{
-    color:rgb(201, 76, 76);
-}
-button{
-    color:rgb(255, 0, 0);
-}
 
-body{
+
+
+.card{
     background-color: black;
+    color: dark grey;
+}
+h1{
+    color: orange;
+}
+p{
+    color: lightgrey;
 }
 button{
-    background-color:aqua;
+    background-color: orange;
+    color: black;
 }
